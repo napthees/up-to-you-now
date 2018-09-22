@@ -1,0 +1,32 @@
+{
+    "name": "up-to-you-now",
+    "author": "Napthees <napthees@email.com>",
+    "description": "A basic Todo list application.",
+    "version": "0.1.0",
+    "license": "MIT",
+    "dependencies": {
+        "express": "~4.11.0",
+        "ejs": "~2.1.4",
+        "cookie-session": "~1.1.0",
+        "body-parser": "~1.10.1"
+    },
+    "keywords": [
+        "Todo",
+        "list",
+        "HTML",
+        "page",
+        "node",
+        "real",
+        "time",
+        "share"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/napthees/up-to-you-now.git"
+    },
+    "homepage": "https://github.com/napthees/up-to-you-now#readme",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "devDependencies": {}
+}
