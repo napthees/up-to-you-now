@@ -18,3 +18,5 @@ In command line:
 
 • To start the application that will be available from your browser at localhost: 8080
   node app.js
+
+[![Known Vulnerabilities](https://snyk.io/test/github/napthees/up-to-you-now/badge.svg?targetFile=package.json)](https://snyk.io/test/github/napthees/up-to-you-now?targetFile=package.json)
