@@ -11,10 +11,10 @@ A basic Todo list application.
 In command line:
 
 • To install the application
-   npm install up-to-you-now
+  npm install up-to-you-now
 
 • To install the packages
-   npm install
+  npm install
 
 • To start the application that will be available from your browser at localhost: 8080
-  node app.js
+  npm start
