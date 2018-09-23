@@ -2,7 +2,7 @@
     "name": "up-to-you-now",
     "author": "Napthees <napthees@email.com>",
     "description": "A basic Todo list application.",
-    "version": "0.1.0",
+    "version": "0.1.5",
     "license": "MIT",
     "dependencies": {
         "body-parser": "^1.18.3",
