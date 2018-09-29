@@ -1,4 +1,3 @@
-require('sqreen');
 var express = require('express');
 var session = require('cookie-session'); // Charge le middleware de sessions
 var bodyParser = require('body-parser'); // Charge le middleware de gestion des paramètres
