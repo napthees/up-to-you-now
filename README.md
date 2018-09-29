@@ -9,11 +9,10 @@ A basic Todo list application.
 In command line:
 
 ```
-â€¢ To install the packages
+• To install the packages
 ```
     > npm install
 ```
-â€¢ To start the application that will be available from your browser at localhost:8080
+• To start the application that will be available from your browser at localhost:8080
 ```
     > npm start
-```
